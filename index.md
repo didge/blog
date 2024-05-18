@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+This is a blob
 ---
 
 *The content of this site is not fit for human consumption.*
